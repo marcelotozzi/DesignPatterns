@@ -1,4 +1,4 @@
-package br.com.designpatterns.abstractfactory;
+package br.com.marcelotozzi.designpatterns.abstractfactory;
 
 public class AbstractFactoryMain {
 	public static void main(String[] args) {

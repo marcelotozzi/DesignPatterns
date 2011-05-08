@@ -1,4 +1,4 @@
-package br.com.designpatterns.abstractfactory;
+package br.com.marcelotozzi.designpatterns.abstractfactory;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
